@@ -1,5 +1,12 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Scanner scn = new Scanner(System.in);
+//        int n = scn.nextInt();
+        String s = scn.next();
+//        System.out.println("Your input is :"+n);
+        System.out.println(s);
     }
 }
