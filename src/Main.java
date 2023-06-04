@@ -8,5 +8,7 @@ public class Main {
         String s = scn.next();
 //        System.out.println("Your input is :"+n);
         System.out.println(s);
+
+        //no change in for,while,do-while,if,if-else,break,continue
     }
 }
